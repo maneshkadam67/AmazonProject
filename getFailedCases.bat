@@ -1,0 +1,1 @@
+behave -f rerun -o failed_features.feature

@@ -1,0 +1,48 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Amazon",
+    "children" : [ {
+      "name" : "Verify login functionality",
+      "uid" : "8d29f99c3ea68bb0",
+      "parentUid" : "2b904e8422a1b62183c949480e2fdc82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643993682070,
+        "stop" : 1643993709057,
+        "duration" : 26987
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify login",
+      "uid" : "711632717e7851cf",
+      "parentUid" : "2b904e8422a1b62183c949480e2fdc82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643993709057,
+        "stop" : 1643993729795,
+        "duration" : 20738
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify search",
+      "uid" : "4edec7e9c45eddf4",
+      "parentUid" : "2b904e8422a1b62183c949480e2fdc82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643993729797,
+        "stop" : 1643993746637,
+        "duration" : 16840
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2b904e8422a1b62183c949480e2fdc82"
+  } ]
+}

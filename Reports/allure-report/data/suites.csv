@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 04 22:25:09 IST 2022","Fri Feb 04 22:25:29 IST 2022","20738","","","","","","Verify login",""
+"passed","Fri Feb 04 22:24:42 IST 2022","Fri Feb 04 22:25:09 IST 2022","26987","","","","","","Verify login functionality",""
+"passed","Fri Feb 04 22:25:29 IST 2022","Fri Feb 04 22:25:46 IST 2022","16840","","","","","","Verify search",""

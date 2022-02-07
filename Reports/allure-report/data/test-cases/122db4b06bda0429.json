@@ -1,0 +1,109 @@
+{
+  "uid" : "122db4b06bda0429",
+  "name" : "Verify login",
+  "fullName" : "Amazon: Verify login",
+  "historyId" : "8b4f42aea5d6f3ec9ce7eeed5725291b",
+  "time" : {
+    "start" : 1643975014294,
+    "stop" : 1643975037048,
+    "duration" : 22754
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Launch the App",
+      "time" : {
+        "start" : 1643975014294,
+        "stop" : 1643975020347,
+        "duration" : 6053
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3c4411f25e24060b",
+        "name" : "AmazonLoginTest",
+        "source" : "3c4411f25e24060b.png",
+        "type" : "image/png",
+        "size" : 1088875
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When Enter login",
+      "time" : {
+        "start" : 1643975020347,
+        "stop" : 1643975036922,
+        "duration" : 16575
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f62b5815583c268f",
+        "name" : "AmazonLoginTest",
+        "source" : "f62b5815583c268f.png",
+        "type" : "image/png",
+        "size" : 80328
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And close the browser",
+      "time" : {
+        "start" : 1643975036922,
+        "stop" : 1643975037048,
+        "duration" : 126
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "Amazon"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "122db4b06bda0429.json",
+  "parameterValues" : [ ]
+}
